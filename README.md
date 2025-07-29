@@ -71,3 +71,11 @@ SQL queries were used to validate data integrity before visualization, ensuring 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/pizza-sales-report.git
+
+2. Open the .pbix file using Power BI Desktop
+3. Explore the interactive visuals and KPIs
+
+---
+
+## 🙌 Acknowledgments
+Special thanks to the open-source community and dataset creators who made this project possible.
